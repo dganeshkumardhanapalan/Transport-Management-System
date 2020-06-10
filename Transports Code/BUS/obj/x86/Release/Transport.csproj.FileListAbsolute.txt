@@ -1,0 +1,398 @@
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.exe.config
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.exe
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.pdb
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\GridLib.dll
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.About.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.AverageCollCondReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.AverageCollDriverReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Bata.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusEntry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusTrip.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusTripEntry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Export.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionModify.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\ColorButton.ColorButton.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ConductorReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.crvScheduleReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DayCollectionReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DieselEntry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DriverReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionEntryModify.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.EmpoyeeEntry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBackup.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBataLimit.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBreakEntry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmClutchEntry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmLICForm.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMainReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMileageLimit.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMonthlyReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMontlyReportEdit.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmOilServiceEntry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmothermonthlyexp.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmScheduleTypeEntry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmshortcollreport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmTripSheetReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmTyerentry.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmWagesLimit.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Login.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.MainForm.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.MaintanceReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Properties.Resources.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Schedule.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ScheduleFullReport.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ScheduleReportForm.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Windows.Forms.CalendarTestForm.resources
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\Transport.csproj.GenerateResource.Cache
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.exe
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.pdb
+E:\Live Projects\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\Transport.csprojResolveAssemblyReference.cache
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.About.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.AverageCollCondReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.AverageCollDriverReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Bata.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusEntry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusTrip.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusTripEntry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Export.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionModify.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\ColorButton.ColorButton.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ConductorReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.crvScheduleReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DayCollectionReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DieselEntry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DriverReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionEntryModify.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.EmpoyeeEntry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBackup.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBataLimit.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBreakEntry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmClutchEntry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmLICForm.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMainReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMileageLimit.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMonthlyReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMontlyReportEdit.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmOilServiceEntry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmothermonthlyexp.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmScheduleTypeEntry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmshortcollreport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmTripSheetReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmTyerentry.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmWagesLimit.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Login.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.MainForm.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.MaintanceReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Properties.Resources.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Schedule.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ScheduleFullReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ScheduleReportForm.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Windows.Forms.CalendarTestForm.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\Transport.csproj.GenerateResource.Cache
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.exe.config
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.exe
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.pdb
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\GridLib.dll
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBusTripReport.resources
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.exe
+C:\Users\Admire\Desktop\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.pdb
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.exe.config
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.exe
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\BUS.pdb
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\bin\x86\Release\GridLib.dll
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.About.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.AverageCollCondReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.AverageCollDriverReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Bata.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusEntry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusTrip.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusTripEntry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Export.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.BusReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionModify.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\ColorButton.ColorButton.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ConductorReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.crvScheduleReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DayCollectionReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DieselEntry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.DriverReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.CollectionEntryModify.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.EmpoyeeEntry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBackup.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBataLimit.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBreakEntry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmBusTripReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmClutchEntry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmLICForm.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMainReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMileageLimit.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMonthlyReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmMontlyReportEdit.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmOilServiceEntry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmothermonthlyexp.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmScheduleTypeEntry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmshortcollreport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmSmsNumber.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmTripSheetReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmTyerentry.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.frmWagesLimit.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Login.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.MainForm.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.MaintanceReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Properties.Resources.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Schedule.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ScheduleFullReport.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.ScheduleReportForm.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.Windows.Forms.CalendarTestForm.resources
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\Transport.csproj.GenerateResource.Cache
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.exe
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\BUS.pdb
+D:\Raja\Bus Double Wages and Bata 11092015\BUS\BUS\obj\x86\Release\Transport.csprojResolveAssemblyReference.cache
+D:\Raja\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.exe.config
+D:\Raja\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.exe
+D:\Raja\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.pdb
+D:\Raja\Bus with SMS\BUS\BUS\bin\x86\Release\GridLib.dll
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.About.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.AverageCollCondReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.AverageCollDriverReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Bata.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusEntry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusTrip.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusTripEntry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Export.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionModify.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\ColorButton.ColorButton.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ConductorReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.crvScheduleReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DayCollectionReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DieselEntry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DriverReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionEntryModify.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.EmpoyeeEntry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBackup.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBataLimit.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBreakEntry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBusTripReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmClutchEntry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmLICForm.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMainReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMileageLimit.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMonthlyReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMontlyReportEdit.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmOilServiceEntry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmothermonthlyexp.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmScheduleTypeEntry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmshortcollreport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmSmsNumber.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmTripSheetReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmTyerentry.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmWagesLimit.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Login.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.MainForm.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.MaintanceReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Properties.Resources.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Schedule.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ScheduleFullReport.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ScheduleReportForm.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Windows.Forms.CalendarTestForm.resources
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\Transport.csproj.GenerateResource.Cache
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.exe
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.pdb
+D:\Raja\Bus with SMS\BUS\BUS\obj\x86\Release\Transport.csprojResolveAssemblyReference.cache
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.exe.config
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.exe
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.pdb
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\bin\x86\Release\GridLib.dll
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.About.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.AverageCollCondReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.AverageCollDriverReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Bata.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusEntry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusTrip.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusTripEntry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Export.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionModify.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\ColorButton.ColorButton.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ConductorReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.crvScheduleReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DayCollectionReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DieselEntry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DriverReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionEntryModify.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.EmpoyeeEntry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBackup.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBataLimit.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBreakEntry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBusTripReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmClutchEntry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmLICForm.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMainReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMileageLimit.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMonthlyReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMontlyReportEdit.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmOilServiceEntry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmothermonthlyexp.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmScheduleTypeEntry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmshortcollreport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmSmsNumber.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmTripSheetReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmTyerentry.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmWagesLimit.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Login.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.MainForm.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.MaintanceReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Properties.Resources.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Schedule.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ScheduleFullReport.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ScheduleReportForm.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Windows.Forms.CalendarTestForm.resources
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\Transport.csproj.GenerateResource.Cache
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.exe
+C:\Users\sathish-pc\Desktop\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.pdb
+F:\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.exe.config
+F:\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.exe
+F:\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.pdb
+Z:\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.exe.config
+Z:\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.exe
+Z:\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.pdb
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.exe.config
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.exe
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\bin\x86\Release\BUS.pdb
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\bin\x86\Release\GridLib.dll
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.About.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.AverageCollCondReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.AverageCollDriverReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Bata.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusEntry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusTrip.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusTripEntry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Export.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.BusReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionModify.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\ColorButton.ColorButton.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ConductorReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.crvScheduleReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DayCollectionReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DieselEntry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.DriverReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.CollectionEntryModify.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.EmpoyeeEntry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBackup.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBataLimit.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBreakEntry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmBusTripReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmCashOut.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmCashOutReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmClutchEntry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmCompanyName.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmEditCashOut.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmEditExpense.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmExpenseMaster.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmExpensesType.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmExpenseTypeReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmLICForm.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMainReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMileageLimit.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMonthlyReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmMontlyReportEdit.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmOilServiceEntry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmothermonthlyexp.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmProfitReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmSalary.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmSalaryReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmScheduleTypeEntry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmshortcollreport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmSmsNumber.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmSupplier.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmTripSheetReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmTyerentry.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.frmWagesLimit.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Login.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.MainForm.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.MaintanceReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Properties.Resources.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Salary_Report.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Schedule.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ScheduleFullReport.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.ScheduleReportForm.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.Windows.Forms.CalendarTestForm.resources
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\Transport.csproj.GenerateResource.Cache
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.exe
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\BUS.pdb
+G:\Admire Solution\Bus with SMS 11-02-2016\Bus with SMS\BUS\BUS\obj\x86\Release\Transport.csprojResolveAssemblyReference.cache
+D:\BUS\BUS\bin\x86\Release\BUS.exe.config
+D:\BUS\BUS\obj\x86\Release\BUS.exe
+D:\BUS\BUS\obj\x86\Release\BUS.pdb
+D:\BUS\BUS\bin\x86\Release\BUS.exe
+D:\BUS\BUS\bin\x86\Release\BUS.pdb
+D:\BUS\BUS\bin\x86\Release\GridLib.dll
+D:\BUS\BUS\obj\x86\Release\BUS.About.resources
+D:\BUS\BUS\obj\x86\Release\BUS.AverageCollCondReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.AverageCollDriverReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.Bata.resources
+D:\BUS\BUS\obj\x86\Release\BUS.BusEntry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.BusTrip.resources
+D:\BUS\BUS\obj\x86\Release\BUS.BusTripEntry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.Export.resources
+D:\BUS\BUS\obj\x86\Release\BUS.BusReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.CollectionModify.resources
+D:\BUS\BUS\obj\x86\Release\BUS.CollectionReport.resources
+D:\BUS\BUS\obj\x86\Release\ColorButton.ColorButton.resources
+D:\BUS\BUS\obj\x86\Release\BUS.ConductorReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.crvScheduleReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.DayCollectionReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.DieselEntry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.DriverReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.CollectionEntryModify.resources
+D:\BUS\BUS\obj\x86\Release\BUS.EmpoyeeEntry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmBackup.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmBataLimit.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmBreakEntry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmBusTripReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmCashOut.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmCashOutReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmClutchEntry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmCompanyName.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmEditCashOut.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmEditExpense.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmExpenseMaster.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmExpensesType.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmExpenseTypeReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmLICForm.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmMainReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmMileageLimit.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmMonthlyReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmMontlyReportEdit.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmOilServiceEntry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmothermonthlyexp.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmProfitReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmSalary.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmSalaryReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmScheduleTypeEntry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmshortcollreport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmSmsNumber.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmSupplier.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmTripSheetReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmTyerentry.resources
+D:\BUS\BUS\obj\x86\Release\BUS.frmWagesLimit.resources
+D:\BUS\BUS\obj\x86\Release\BUS.Login.resources
+D:\BUS\BUS\obj\x86\Release\BUS.MainForm.resources
+D:\BUS\BUS\obj\x86\Release\BUS.MaintanceReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.Properties.Resources.resources
+D:\BUS\BUS\obj\x86\Release\BUS.Salary_Report.resources
+D:\BUS\BUS\obj\x86\Release\BUS.Schedule.resources
+D:\BUS\BUS\obj\x86\Release\BUS.ScheduleFullReport.resources
+D:\BUS\BUS\obj\x86\Release\BUS.ScheduleReportForm.resources
+D:\BUS\BUS\obj\x86\Release\BUS.Windows.Forms.CalendarTestForm.resources
+D:\BUS\BUS\obj\x86\Release\Transport.csproj.GenerateResource.Cache
+D:\BUS\BUS\obj\x86\Release\Transport.csprojResolveAssemblyReference.cache
